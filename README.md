@@ -10,14 +10,14 @@ Visual Studio Code の使用を想定
 ## 開発環境構築
 
 1. 仮想環境の作成
-   '''bash
+   ```
    python -m venv venv
    . venv/bin/activate
-   '''
+   ```
 2. パッケージのインストール
-   '''bash
+   ```
    pip install -r requirements.txt
-   '''
+   ```
 
 ## Jupyter Nootbook ファイルの実行
 
